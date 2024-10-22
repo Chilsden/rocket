@@ -57,5 +57,8 @@
         "default": "./lib/cjs/index.js"
       }
     }
+  },
+  "dependencies": {
+    "rocket-launch-live-client": "^1.0.3"
   }
 }
